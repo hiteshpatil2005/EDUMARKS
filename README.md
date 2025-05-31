@@ -65,3 +65,12 @@ graph TD
     1494["Database Configuration<br>PHP"] -->|connects to| 1498["Application Database<br>MySQL"]
 
 ```
+
+## 📊 Website Preview
+
+![Image](./Website%20Snapshots/Start%20Page.png)
+![Image](./Website%20Snapshots/Home%20Page.png)
+![Image](./Website%20Snapshots/Class%20Creation%20Page.png)
+![Image](./Website%20Snapshots/Student%20Data%20Page.png)
+![Image](./Website%20Snapshots/Student%20Panel.png)
+![Image](./Website%20Snapshots/Subjectwise%20Performance%20Analysis.png)
