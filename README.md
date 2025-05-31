@@ -1,4 +1,4 @@
-# 👨‍🎓EDUMARKS - A Student Marklist Management System ✨
+# ✨EDUMARKS - A Student Marklist Management System 
 
 EDU MARKS offers a seamless experience for administrators and students alike, enabling easy class and result management, personalized performance tracking, and secure student access. With real-time performance analytics and graph-based insights, EDU MARKS empowers data-driven academic decisions.
 
